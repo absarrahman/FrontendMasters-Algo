@@ -1,4 +1,4 @@
-pub fn lenear_search<T>(arr: &[T], target_value: T) -> bool
+pub fn linear_search<T>(arr: &[T], target_value: T) -> bool
 where
     T: PartialEq,
 {
